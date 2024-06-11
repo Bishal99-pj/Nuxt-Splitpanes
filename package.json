@@ -6,6 +6,9 @@
     "type": "git",
     "url": "https://github.com/Bishal99-pj/Nuxt-Splitpanes.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "type": "module",
   "exports": {
