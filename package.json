@@ -4,7 +4,7 @@
   "description": "Nuxt module for splitter panels",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bishal99-pj/Nuxt-Splitpanes.git"
+    "url": "git+https://github.com/Bishal99-pj/Nuxt-Splitpanes.git"
   },
   "publishConfig": {
     "access": "public"
