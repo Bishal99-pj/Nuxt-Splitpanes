@@ -17,6 +17,7 @@ Follow the links below
 - 🚠 &nbsp;Responsive even with nesting 
 - 💻 &nbsp;Support for touch devices and programmatic addition and removal
 - 💾 &nbsp;Compatible with Vue2 and Vue3
+- 🦺 &nbsp;End to end Typesafety
 
 ## Quick Setup
 
