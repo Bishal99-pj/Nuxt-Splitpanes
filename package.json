@@ -2,7 +2,10 @@
   "name": "nuxt-splitpanes",
   "version": "1.0.0",
   "description": "Nuxt module for splitter panels",
-  "repository": "your-org/my-module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bishal99-pj/Nuxt-Splitpanes.git"
+  },
   "license": "MIT",
   "type": "module",
   "exports": {
